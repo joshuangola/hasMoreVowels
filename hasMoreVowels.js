@@ -25,7 +25,7 @@ hasMoreVowels('Aal')
 // true
 
 */
-
+// solved
 
 
 const hasMoreVowels = word => {
